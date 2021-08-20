@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Showcase](https://raw.githubusercontent.com/qNecro/flash-chat/main/preview.png)
 
 # Flash-Chat
 
